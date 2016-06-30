@@ -33,6 +33,10 @@ class ComposerStaticInit894535e58b6d132ececf0415dfa568f3
             'chrmorandi\\jasper\\' => 18,
             'cebe\\markdown\\' => 14,
         ),
+        'L' => 
+        array (
+            'Libern\\QRCodeReader\\' => 20,
+        ),
         'F' => 
         array (
             'Faker\\' => 6,
@@ -87,6 +91,10 @@ class ComposerStaticInit894535e58b6d132ececf0415dfa568f3
         'cebe\\markdown\\' => 
         array (
             0 => __DIR__ . '/..' . '/cebe/markdown',
+        ),
+        'Libern\\QRCodeReader\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/libern/qr-code-reader/src',
         ),
         'Faker\\' => 
         array (

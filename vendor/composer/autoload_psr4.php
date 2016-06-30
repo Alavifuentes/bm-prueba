@@ -18,5 +18,6 @@ return array(
     'dosamigos\\datepicker\\' => array($vendorDir . '/2amigos/yii2-date-picker-widget/src'),
     'chrmorandi\\jasper\\' => array($vendorDir . '/chrmorandi/yii2-jasper/src/Jasper'),
     'cebe\\markdown\\' => array($vendorDir . '/cebe/markdown'),
+    'Libern\\QRCodeReader\\' => array($vendorDir . '/libern/qr-code-reader/src'),
     'Faker\\' => array($vendorDir . '/fzaninotto/faker/src/Faker'),
 );

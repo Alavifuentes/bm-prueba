@@ -1129,5 +1129,49 @@
             "oauth",
             "yii2"
         ]
+    },
+    {
+        "name": "libern/qr-code-reader",
+        "version": "v1.0.3",
+        "version_normalized": "1.0.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/libern/qr-code-reader.git",
+            "reference": "58871871008c826e3a5ddfbabb8833ae5b4a1068"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/libern/qr-code-reader/zipball/58871871008c826e3a5ddfbabb8833ae5b4a1068",
+            "reference": "58871871008c826e3a5ddfbabb8833ae5b4a1068",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2016-06-19 04:37:28",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Libern\\QRCodeReader\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Libern Lin",
+                "email": "libernlin@gmail.com"
+            }
+        ],
+        "description": "Simple PHP QR Code Reader / Decoder",
+        "homepage": "https://github.com/libern/qr-code-reader",
+        "keywords": [
+            "laravel",
+            "qr code decoder",
+            "qr code reader"
+        ]
     }
 ]
